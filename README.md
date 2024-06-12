@@ -1,5 +1,6 @@
-# Trabalho de Estágio Supervisionado
-
+<h1 align="center">
+Trabalho de Estágio Supervisionado
+</h1>
 
 ---
 
