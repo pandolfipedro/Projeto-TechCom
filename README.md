@@ -1,8 +1,5 @@
 # Trabalho de Estágio Supervisionado
 
-<p align="center">
-  <img src="https://hs.multivix.edu.br/hs-fs/hubfs/Logo-Multivix.png?width=1500&name=Logo-Multivix.png" width="200">
-</p>
 
 ---
 
